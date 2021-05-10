@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="telephone">Telephone</string>
+    <string name="size">Size</string>
+    <string name="smoking">Smoking</string>
+    <string name="reserve">Reserve</string>
+    <string name="reset">Reset</string>
+    <string name="your_appoitment_information">Your Appoitment Information</string>
+</resources>
